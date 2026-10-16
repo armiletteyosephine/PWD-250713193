@@ -1,0 +1,25 @@
+#informasi {
+    box-shadow: 0 0.5px 1px 0 rgb(48, 77, 142);
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 10px 30px 5px 20px;
+    font-family: sans-serif;
+    color: rgb(73, 73, 73);
+    text-align: center;
+}
+
+
+.link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: fit-content;
+    margin: 20px auto 0;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: rgb(201, 218, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+    transition: all 0.2s linear;
+}
